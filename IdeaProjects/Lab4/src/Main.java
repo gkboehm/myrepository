@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Grace Boehm
 public class Main {
 
     public static void main(String[] args){
@@ -17,7 +17,7 @@ public class Main {
         }
 
         while (position < currentNum.length()){
-
+    //This is a comment for Lab 5!
             int realNum;
 
             switch (currentNum.charAt(position)){
